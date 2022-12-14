@@ -1,9 +1,9 @@
-﻿# Welcome to SHOOTING MASTER Game
+﻿# Welcome to Attack_to_Shoot Game.
 I have created this using HTML,CSS and JavaScript.
 ## Demo 
 
 
-**Play** Click [Here](https://msdiansh.github.io/game-shooting/)
+**Play** Click [Here](https://dishari025.github.io/attack_to_shoot/)
 
 
 
